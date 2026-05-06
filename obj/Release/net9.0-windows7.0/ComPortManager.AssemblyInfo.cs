@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ComPortManager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+748d4055129472a0672f4278b4ced52419864e77")]
 [assembly: System.Reflection.AssemblyProductAttribute("ComPortManager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ComPortManager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
