@@ -62,7 +62,7 @@ bin\Debug\net10.0-windows\ComPortManager.exe
 .\bin\Debug\net10.0-windows\ComPortManager.exe
 ```
 
-If the app is not already running as Administrator, Windows will show a UAC prompt.
+Windows will always show a UAC prompt running this, can be worked around via Task manager tasks running as NT\System.
 
 ## Menu Options
 
@@ -95,7 +95,3 @@ ComPortManager.csproj
 Program.cs
 README.md
 ```
-
-## License
-
-Add your preferred license before publishing publicly.
