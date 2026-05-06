@@ -1,0 +1,14 @@
+C:\Applications\ComPortManager\ComPortManager\bin\Release\net10.0-windows\ComPortManager.exe
+C:\Applications\ComPortManager\ComPortManager\bin\Release\net10.0-windows\ComPortManager.deps.json
+C:\Applications\ComPortManager\ComPortManager\bin\Release\net10.0-windows\ComPortManager.runtimeconfig.json
+C:\Applications\ComPortManager\ComPortManager\bin\Release\net10.0-windows\ComPortManager.dll
+C:\Applications\ComPortManager\ComPortManager\bin\Release\net10.0-windows\ComPortManager.pdb
+C:\Applications\ComPortManager\ComPortManager\obj\Release\net10.0-windows\ComPortManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Applications\ComPortManager\ComPortManager\obj\Release\net10.0-windows\ComPortManager.AssemblyInfoInputs.cache
+C:\Applications\ComPortManager\ComPortManager\obj\Release\net10.0-windows\ComPortManager.AssemblyInfo.cs
+C:\Applications\ComPortManager\ComPortManager\obj\Release\net10.0-windows\ComPortManager.csproj.CoreCompileInputs.cache
+C:\Applications\ComPortManager\ComPortManager\obj\Release\net10.0-windows\ComPortManager.dll
+C:\Applications\ComPortManager\ComPortManager\obj\Release\net10.0-windows\refint\ComPortManager.dll
+C:\Applications\ComPortManager\ComPortManager\obj\Release\net10.0-windows\ComPortManager.pdb
+C:\Applications\ComPortManager\ComPortManager\obj\Release\net10.0-windows\ComPortManager.genruntimeconfig.cache
+C:\Applications\ComPortManager\ComPortManager\obj\Release\net10.0-windows\ref\ComPortManager.dll
